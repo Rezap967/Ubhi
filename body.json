@@ -1,0 +1,11 @@
+{
+    "product_id": 2,
+    "quantity": 10,
+    "unit_id": 1,
+    "warehouse_id": 1,
+    "purchase_price": 12000,
+    "payment_status": "lunas",
+    "reference_no": "INV-002",
+    "received_date": "2026-08-10",
+    "notes": "Test endpoint"
+}

@@ -1,0 +1,10 @@
+{
+    "product_id": 2,
+    "quantity": 3,
+    "unit_id": 1,
+    "warehouse_id": 1,
+    "reason": "expired",
+    "out_date": "2026-08-10",
+    "reference_no": "OUT-002",
+    "notes": "Test endpoint pengeluaran"
+}
